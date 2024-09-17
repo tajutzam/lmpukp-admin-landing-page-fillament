@@ -1,0 +1,15 @@
+models:
+  # ...
+  Hero:
+    title: string
+    description: text
+
+  About:
+    title: string
+    description : text
+
+  CategoryInstruction:
+    title: string
+
+  Instruction :
+    category_instruction_id : id
